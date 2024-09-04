@@ -24,6 +24,8 @@ def display_dataframe(df):
     )
 
 def main():
+    st.image("featurewise_logo.png", width=150)  # Adjust width as needed
+
     st.title("FEATUREWISE")
 
     # Upload CSV file
