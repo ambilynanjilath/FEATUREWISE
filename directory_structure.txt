@@ -1,0 +1,39 @@
+.
+├── build
+│   ├── bdist.linux-x86_64
+│   └── lib
+├── directory_structure.txt
+├── dist
+│   ├── featurewise-1.1.6-py3-none-any.whl
+│   └── featurewise-1.1.6.tar.gz
+├── env
+│   ├── bin
+│   ├── etc
+│   ├── include
+│   ├── lib
+│   ├── lib64 -> lib
+│   ├── pyvenv.cfg
+│   └── share
+├── featurewise
+│   ├── create_features.py
+│   ├── date_time_features.py
+│   ├── encoding.py
+│   ├── imputation.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   ├── scaling.py
+│   └── scripts
+├── featurewise.egg-info
+│   ├── dependency_links.txt
+│   ├── entry_points.txt
+│   ├── PKG-INFO
+│   ├── requires.txt
+│   ├── SOURCES.txt
+│   └── top_level.txt
+├── LICENSE.md
+├── MANIFEST.in
+├── README.md
+├── requirements.txt
+└── setup.py
+
+16 directories, 21 files
